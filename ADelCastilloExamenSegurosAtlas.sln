@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{D828158D-57BF-4E4D-B4AF-F5B5DAB295B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPares", "NumerosPares\NumerosPares.csproj", "{895ABE95-8636-4069-A500-613C3DCB9475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacen", "Almacen\Almacen.csproj", "{6E654D39-E1B0-448E-AEE0-86FCFC3AD47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D828158D-57BF-4E4D-B4AF-F5B5DAB295B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D828158D-57BF-4E4D-B4AF-F5B5DAB295B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D828158D-57BF-4E4D-B4AF-F5B5DAB295B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D828158D-57BF-4E4D-B4AF-F5B5DAB295B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895ABE95-8636-4069-A500-613C3DCB9475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895ABE95-8636-4069-A500-613C3DCB9475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895ABE95-8636-4069-A500-613C3DCB9475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895ABE95-8636-4069-A500-613C3DCB9475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E654D39-E1B0-448E-AEE0-86FCFC3AD47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E654D39-E1B0-448E-AEE0-86FCFC3AD47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E654D39-E1B0-448E-AEE0-86FCFC3AD47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E654D39-E1B0-448E-AEE0-86FCFC3AD47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4747458F-6AC6-496E-B4A2-FEB206DCDA8D}
+	EndGlobalSection
+EndGlobal
